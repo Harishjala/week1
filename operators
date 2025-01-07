@@ -1,0 +1,8 @@
+post increment
+first value is assigned
+then increments (after)
+
+pre increment
+first increment
+then value is assigned
+
